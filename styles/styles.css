@@ -134,7 +134,7 @@
   --color-dark: #000;
   --color-dark-link: var(--color-gray-900);
   --color-brand: var(--color-purple-500);
-  --color-accent: light-dark(var(--color-magenta-600), var(--color-magenta-500));
+  --color-accent: #CC0000;
   --color-shaded: light-dark(#f9f9f9, #111);
 
   /* fonts */
